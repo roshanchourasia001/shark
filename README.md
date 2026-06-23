@@ -3,5 +3,4 @@ niin
 jnubj
   .
 jjjjjjjjjjjjjjjjjjjjjjj
-mmmmmmmmmmmm
-nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+
